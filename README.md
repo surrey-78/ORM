@@ -48,7 +48,7 @@ admin.site.register(Employee,EmployeeAdmin)```
 ## OUTPUT
 
 
-![Outputdj png](https://user-images.githubusercontent.com/119559366/232078119-04848079-3b5d-425e-998c-0098df6e5baf.png)
+![Outputdj](https://user-images.githubusercontent.com/119559366/232078372-8c7d7f0b-4bca-4be3-a6b9-3cc2f1932367.png)
 
 ## RESULT
 A Django application has been created that can be used to store and retrieve data from the database using Object Relational Mapping(ORM).
