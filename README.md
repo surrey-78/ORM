@@ -43,11 +43,12 @@ File: Admin.py
 from django.contrib import admin
 from .models import Employee,EmployeeAdmin
 
-admin.site.register(Employee,EmployeeAdmin)```
+admin.site.register(Employee,EmployeeAdmin)
+```
 
 ## OUTPUT
 
-![djOutput](https://user-images.githubusercontent.com/119559366/232078886-099877c2-db32-4aee-b20a-07e35ea24524.png)
+![ErDiagram](https://user-images.githubusercontent.com/119559366/232076998-5a3072df-440a-47f4-a930-f5c99e4b7cae.png)
 
 ## RESULT
 A Django application has been created that can be used to store and retrieve data from the database using Object Relational Mapping(ORM).
