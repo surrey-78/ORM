@@ -5,6 +5,7 @@ To develop a Django application to store and retrieve data from a student databa
 
 ## Entity Relationship Diagram
 
+![ErDiagram](https://user-images.githubusercontent.com/119559366/232076998-5a3072df-440a-47f4-a930-f5c99e4b7cae.png)
 
 
 ## DESIGN STEPS
@@ -45,7 +46,7 @@ from .models import Employee,EmployeeAdmin
 admin.site.register(Employee,EmployeeAdmin)```
 
 ## OUTPUT
-
+![Outputdj png](https://user-images.githubusercontent.com/119559366/232077912-b421fbd7-fe11-4c12-84d2-f5d32019b662.png)
 
 
 ## RESULT
